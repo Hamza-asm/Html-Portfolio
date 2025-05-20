@@ -13,5 +13,5 @@ Hi, I’m @Hamza-asm
 
 ⚡ Fun fact: I'm a huge fan of gaming and football in my free time
 
-HTML Project
+# HTML Project
 In my first HTML project, I created a Birthday Invitation and a Best Movies List page using images, lists, and links. This helped me build a foundation in HTML by working with basic elements and layouts.
